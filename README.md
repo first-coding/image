@@ -1,2 +1,2 @@
 # image
-this is my picture
+this is my Github chart bed
